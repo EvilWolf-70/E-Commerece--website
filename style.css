@@ -150,6 +150,11 @@ body {
   height: 50px;
   z-index: 1000;
 }
+#count-profile-wrapper > img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
 
 #banner-wrapper {
   width: 80%;
@@ -453,6 +458,12 @@ main {
 .add-tocard-btn:active {
   transform: scale(1.2);
   box-shadow: 0 2px 10px rgb(0 0 0 / 70%);
+}
+#edyoda-projects-logo {
+  width: 128px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
 }
 
 footer {
